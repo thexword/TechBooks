@@ -1,2 +1,2 @@
 # TechBooks
-This is a backup for useful technology books.
+This repository is used as a backup of useful technology books.
