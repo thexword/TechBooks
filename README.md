@@ -1,2 +1,2 @@
-# hello-world
-This is my first GitHub project ^_^
+# TechBooks
+This is a backup for useful technology books.
